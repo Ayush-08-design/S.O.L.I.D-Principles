@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.11"
+
+[[package]]
+name = "s-o-l-i-d-principles"
+version = "0.1.0"
+source = { virtual = "." }
